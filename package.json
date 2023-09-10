@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@lit-labs/context": "^0.4.0",
     "lit": "^2.7.6"
   },
   "devDependencies": {
